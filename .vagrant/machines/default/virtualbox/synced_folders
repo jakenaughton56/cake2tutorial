@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www":{"mount_options":["dmode=777","fmode=666","uid=1000","gid=1000"],"guestpath":"/var/www","hostpath":"/Users/jakework/Desktop/vagrant_getting_started/cakephp-2.10.12","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/jakework/Desktop/vagrant_getting_started","disabled":false,"__vagrantfile":true}}}
