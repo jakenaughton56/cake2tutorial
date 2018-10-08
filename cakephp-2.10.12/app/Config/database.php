@@ -71,7 +71,7 @@ class DATABASE_CONFIG {
 		'persistent' => false,
 		'host' => 'localhost',
 		'login' => 'root',
-		'password' => 'PASSWORD',
+		'password' => 'root',
 		'database' => 'cake',
 		'prefix' => '',
 		//'encoding' => 'utf8',
